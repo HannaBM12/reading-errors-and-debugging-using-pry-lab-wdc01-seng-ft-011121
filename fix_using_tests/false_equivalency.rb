@@ -17,7 +17,7 @@ def selection(num)
     #  binding.pry
   elsif num = 2
     binding.pry
-     "HAM HAM HAM IN MY TUMMY"
+    "HAM HAM HAM IN MY TUMMY"
   end
 end
 
